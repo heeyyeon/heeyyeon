@@ -6,7 +6,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요☺️ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <li> 사용자의 불편함을 해결하기 위해 끊임없이 고민합니다.</li>
+        <li> 사용자의 불편함을 해결하기 위해 끊임없이 고민합니다</li>
         <li> 협업을 통해 최적의 결과를 제공하는 것을 목표로 합니다</li>
     </div>
 </div>
