@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=emotion&logoColor=white">
+        <img src="https://emotion.sh/logo.svg" alt="Emotion Logo" width="20"/> Emotion
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white">
