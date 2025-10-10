@@ -23,17 +23,17 @@
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Emotion-8A2BE2?style=for-the-badge&logo=emotion&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Emotion-8A2BE2?style=for-the-badge&logo=emotion&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>  -->
 <br/>
 
 🍯 **Tools & Platforms** 🍯  
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=white"/> 
 </div>
 
 ---
