@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Emotion-8A2BE2?style=for-the-badge&logo=emotion&logoColor=white"/>
+<img src="https://img.shields.io/badge/VanillaJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <!-- <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>  -->
 <br/>
 
