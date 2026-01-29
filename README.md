@@ -7,6 +7,7 @@
  -->
 <div>
 
+<!--
 ## 🛠️ Tech Stacks  
 
 <div align="center">
@@ -40,7 +41,7 @@
 </div>
 
 ---
-
+-->
 ## 🏅 Stats  
 
 <div align="center">
