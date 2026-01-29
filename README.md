@@ -43,12 +43,18 @@
 ## 🏅 Stats  
 
 <div align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=heeyyeon&show_icons=true&count_private=true&hide_border=true&bg_color=FFF9DB&title_color=FFC436&icon_color=FFD93D&text_color=5c5c5c&ring_color=FFC436"
+    height="170"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=heeyyeon&show_icons=true&count_private=true&hide_border=true&bg_color=FFF9DB&title_color=FFC436&icon_color=FFD93D&text_color=5c5c5c&ring_color=FFC436" height="170"/>
-
-<div align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=heeyyeon&hide_border=true&background=FFF9DB&ring=FFC436&fire=FFD93D&currStreakLabel=FFC436&sideNums=5c5c5c&sideLabels=5c5c5c" height="165" />
+  <img
+    src="https://streak-stats.demolab.com?user=heeyyeon&hide_border=true&background=FFF9DB&ring=FFC436&fire=FFD93D&currStreakLabel=FFC436&sideNums=5c5c5c&sideLabels=5c5c5c"
+    height="165"
+  />
+
 </div>
 
 </div>
